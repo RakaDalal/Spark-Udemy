@@ -19,5 +19,5 @@ This repository contains all codes created during the online course by Udemy.
 
 # Some sample big data analysis problems that we solved as Spark problems:
 
-Designed a movie-recommendation system using Item-Based Collaborative Filtering.
-Analyzed degrees of separation problem in Social Network using breadth-first search.
+1. Designed a movie-recommendation system using Item-Based Collaborative Filtering.
+2. Analyzed degrees of separation problem in Social Network using breadth-first search.
