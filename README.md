@@ -13,9 +13,9 @@ This repository contains all codes created during the online course by Udemy.
 7. Use the MLLib machine learning library to answer common data mining questions
 8. Understand how Spark SQL lets you work with structured data
 9. Understand how Spark Streaming lets your process continuous streams of data in real time
-10.Tune and troubleshoot large jobs running on a cluster
-11.Share information between nodes on a Spark cluster using broadcast variables and accumulators
-12.Understand how the GraphX library helps with network analysis problems
+10. Tune and troubleshoot large jobs running on a cluster
+11. Share information between nodes on a Spark cluster using broadcast variables and accumulators
+12. Understand how the GraphX library helps with network analysis problems
 
 # Some sample big data analysis problems that we solved as Spark problems:
 
